@@ -1,7 +1,7 @@
-<p>
+<div style="text-align: center;">
 <img src="https://github.com/SystemsAndSolutionsIT/SystemsAndSolutionsIT.github.io/blob/main/img/Logo-1.png" align="right, absmiddle" width="385px">
 # ¡Bienvenido a Systems and Solutions IT! 
-</p>
+</div>
 
 En **Systems and Solutions IT**, nos especializamos en ofrecer soluciones tecnológicas innovadoras y adaptadas a las necesidades de nuestros clientes. Nuestro enfoque está en la calidad, la eficiencia y la satisfacción total.
 
