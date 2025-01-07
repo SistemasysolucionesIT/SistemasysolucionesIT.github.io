@@ -1,4 +1,4 @@
-# ¡Bienvenido a Systems and Solutions IT! 🌐
+# ¡Bienvenido a Systems and Solutions IT! <img src="https://github.com/SystemsAndSolutionsIT/SystemsAndSolutionsIT.github.io/blob/main/img/Logo-1.png" width="30px">
 
 En **Systems and Solutions IT**, nos especializamos en ofrecer soluciones tecnológicas innovadoras y adaptadas a las necesidades de nuestros clientes. Nuestro enfoque está en la calidad, la eficiencia y la satisfacción total.
 
