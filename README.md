@@ -1,5 +1,5 @@
 <p>
-<img src="https://github.com/SystemsAndSolutionsIT/SystemsAndSolutionsIT.github.io/blob/main/img/Logo-1.png" align="right" width="385px">
+<img src="https://github.com/SystemsAndSolutionsIT/SystemsAndSolutionsIT.github.io/blob/main/img/Logo-1.png" align="right, top" width="385px">
 # ¡Bienvenido a Systems and Solutions IT! 
 </p>
 
