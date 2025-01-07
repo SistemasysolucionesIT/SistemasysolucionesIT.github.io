@@ -1,5 +1,5 @@
 <p style="display: flex; align-items: center;">
-# ¡Bienvenido a Systems and Solutions IT! <img src="https://github.com/SystemsAndSolutionsIT/SystemsAndSolutionsIT.github.io/blob/main/img/Logo-1.png" width="350px" style="vertical-align:middle; margin-right:10px;">
+# ¡Bienvenido a Systems and Solutions IT! <img src="https://github.com/SystemsAndSolutionsIT/SystemsAndSolutionsIT.github.io/blob/main/img/Logo-1.png" width="385px" style="vertical-align:middle; margin-right:10px;">
 </p>
 
 En **Systems and Solutions IT**, nos especializamos en ofrecer soluciones tecnológicas innovadoras y adaptadas a las necesidades de nuestros clientes. Nuestro enfoque está en la calidad, la eficiencia y la satisfacción total.
